@@ -1,6 +1,5 @@
 
+
 {
-  "rules":{
-    "color-function-notation":"legacy"
-  }
+  "extends": ["stylelint-config-standard"]
 }
